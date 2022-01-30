@@ -37,6 +37,15 @@
             background-color:#926874;
         }
 
+        footer{
+                width: 100%;
+                height: 5px;
+                padding-left: 10px;
+                line-height: 50px;
+                position: absolute;
+                bottom: 0px;
+            }
+
         
 
     </style>
@@ -125,6 +134,13 @@
             @yield('content')
         </main>
     </div>
+
+    <footer class="pt-3 mt-4">
+    <div class="text-center p-3" style="background-color: rgba(0, 0, 0, 0.2);">
+    &copy; 2022 UAS Web Programming II:
+    <a class="text-dark">Achmad Yusuf Subagja - Zafar Maulana Sidik</a>
+  </div>
+    </footer>
 </body>
 
 </html>
