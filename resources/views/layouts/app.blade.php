@@ -37,12 +37,13 @@
             background-color:#926874;
         }
 
-        footer{
+        /* footer{
                 width: 100%;
-                height: 0;
+                height: 50px;
                 position: absolute;
-                bottom: 0px;
-            }
+                bottom: 50px;
+
+            } */
 
         
 
@@ -133,12 +134,12 @@
         </main>
     </div>
 
-    <footer class="pt-3 mt-4">
+    <!-- <footer class="pt-3 mt-4">
     <div class="text-center p-3" style="background-color: #d45a27;">
     <p>&copy; 2022 UAS Web Programming II:
     <a class="text-light">Achmad Yusuf Subagja - Zafar Maulana Sidik</a></p>
   </div>
-    </footer>
+    </footer> -->
 </body>
 
 </html>
